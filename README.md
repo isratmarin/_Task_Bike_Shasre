@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+SplashScreen->Onboarding->Onboarding2->Onboarding3->Login->Signup->Verification->WelcomePage->Support(from drawer)
 
 A few resources to get you started if this is your first Flutter project:
 
